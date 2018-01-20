@@ -1,5 +1,4 @@
-# Esri's MOOC Program :
-# "[The Location Advantage](http://www.esri.com/mooc/location-advantage)"
+# Esri's MOOC Program : "[The Location Advantage](http://www.esri.com/mooc/location-advantage)"
 ###### 1/11/17 - 12/12/17
 
 ## Explore how location analytics can be used in business.
@@ -23,3 +22,5 @@ In this lesson, you will learn how to examine the supply chain by using location
 
 ### Section 6 : Avoiding Risk with Location-Based Decision Making
 The identification, assessment, and prioritization of risks, paired with existing resources, can help determine the probability of future events to maximize the realization of opportunities.
+
+![certificate](certificate_UC-H9T9GU7P.jpg "certificate")
